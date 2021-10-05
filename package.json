@@ -1,0 +1,12 @@
+{
+  "name": "SpoilerBot",
+  "version": "1.0.0",
+  "description": "A Discord Bot for editing trigger words with spoiler tags.",
+  "main": "index.js",
+  "author": "Zachary Wright",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
